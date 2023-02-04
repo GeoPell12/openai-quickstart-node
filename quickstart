@@ -1,0 +1,5 @@
+cd openai-quickstart-node
+cp .env.example .env
+OPENAI_API_KEY
+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
+
